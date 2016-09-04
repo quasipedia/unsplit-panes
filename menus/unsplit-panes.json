@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle unsplit-panes",
-        "command": "unsplit-panes:toggle"
+        "label": "Unsplit panes",
+        "command": "unsplit-panes:unsplit"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "unsplit-panes",
+          "label": "Unsplit panes",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "unsplit-panes:toggle"
+              "label": "Unsplit",
+              "command": "unsplit-panes:unsplit"
             }
           ]
         }

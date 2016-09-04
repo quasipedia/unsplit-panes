@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "unsplit-panes:toggle"
+    "ctrl-alt-u": "unsplit-panes:unsplit"
   }
 }

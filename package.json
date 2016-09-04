@@ -6,9 +6,9 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "unsplit-panes:toggle"
+    "atom-workspace": "unsplit-panes:unsplit"
   },
-  "repository": "https://github.com/atom/unsplit-panes",
+  "repository": "https://github.com/quasipedia/unsplit-panes",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
